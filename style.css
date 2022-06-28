@@ -690,7 +690,7 @@ select:focus {
     .description__showbtn:hover {
       color: #41f6d7; }
     .description__showbtn-img-container {
-      content: url(/src/images/icons/icon.svg);
+      content: url(./static/icon.svg);
       margin-right: 1rem; }
     .description__showbtn-img-container--flipped {
       transform: rotate(180deg); }
@@ -1249,7 +1249,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .call-btn__container {
-    content: url(/src/images/icons/call.svg); }
+    content: url(./static/call.svg); }
 
 .chat-btn {
   transition: 0.3s ease;
@@ -1258,7 +1258,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .chat-btn__container {
-    content: url(/src/images/icons/chat.svg); }
+    content: url(./static/chat.svg); }
 
 .check-status-btn {
   transition: 0.3s ease;
@@ -1267,7 +1267,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .check-status-btn__container {
-    content: url(/src/images/icons/checkstatus.svg); }
+    content: url(./static/checkstatus.svg); }
 
 .hamburger-btn {
   transition: 0.3s ease;
@@ -1276,7 +1276,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .hamburger-btn__container {
-    content: url(/src/images/icons/burger.svg); }
+    content: url(./static/burger.svg); }
 
 .profile-btn {
   transition: 0.3s ease;
@@ -1285,7 +1285,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .profile-btn__container {
-    content: url(/src/images/icons/profile.svg); }
+    content: url(./static/profile.svg); }
 
 .repair-order-btn {
   transition: 0.3s ease;
@@ -1294,7 +1294,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .repair-order-btn__container {
-    content: url(/src/images/icons/repair.svg); }
+    content: url(./static/repair.svg); }
 
 .search-btn {
   transition: 0.3s ease;
@@ -1303,7 +1303,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .search-btn__container {
-    content: url(/src/images/icons/search.svg); }
+    content: url(./static/search.svg); }
 
 .close-menu-btn {
   transition: 0.3s ease;
@@ -1312,7 +1312,7 @@ select:focus {
     cursor: pointer;
     transform: scale(1.2); }
   .close-menu-btn__container {
-    content: url(/src/images/icons/burger-close.svg); }
+    content: url(./static/burger-close.svg); }
 
 .go-button {
   transition: 0.3s ease;
@@ -1341,7 +1341,7 @@ select:focus {
     font-size: 0.875rem;
     font-weight: 700; }
   .order-btn__image-container {
-    content: url("/src/images/icons/dropdown.svg");
+    content: url(./static/dropdown.svg);
     margin-right: 5px; }
 
 
