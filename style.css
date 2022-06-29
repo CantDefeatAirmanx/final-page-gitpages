@@ -493,7 +493,7 @@ select:focus {
     .mobile-menu__element--hidden768 {
       display: none; } }
   .mobile-menu__divider {
-    content: url(/src/images/icons/divider.svg); }
+    content: url(./static/divider.svg); }
   @media (min-width: 768px) {
     .mobile-menu__company-logo {
       margin-right: auto; } }
