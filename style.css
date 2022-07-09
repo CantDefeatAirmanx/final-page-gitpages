@@ -605,23 +605,10 @@ select:focus {
   border-radius: 6px; }
   .nav-bar__link:hover {
     border-color: #b8ffec; }
-  .nav-bar__link--hidden {
-    display: none; }
-    @media (min-width: 1440px) {
-      .nav-bar__link--hidden {
-        display: block; } }
   .nav-bar__link--active {
     border-color: #b8ffec;
-    border-radius: 6px; }
-    @media (min-width: 1440px) {
-      .nav-bar__link--active {
-        border-color: transparent; } }
-  @media (min-width: 1440px) {
-    .nav-bar__link--1120-active {
-      border-color: #b8ffec; } }
-  @media (min-width: 1440px) {
-    .nav-bar__link--1120-hidden {
-      display: none; } }
+    border-radius: 6px;
+    pointer-events: none; }
 
 .main-content__repair-brands, .main-content__repair-devices, .main-content__service-prices {
   margin-top: 32px;
